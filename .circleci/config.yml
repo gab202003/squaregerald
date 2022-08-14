@@ -25,6 +25,5 @@ workflows:
     jobs:
       - say-hello
 
-orbs:
-  slack: circleci/slack@4.10.1
+
      
