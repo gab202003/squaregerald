@@ -15,4 +15,4 @@ for c in ['red', 'green', 'blue', 'blue']:
 
     t.color(c)
     t.forward(90)
-    t.left(90)
+    t.left(95)
