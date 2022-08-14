@@ -12,5 +12,5 @@ t = turtle.Turtle()
 
 for c in ['red', 'green', 'blue', 'yellow']:
     t.color(c)
-    t.forward(95)
+    t.forward(90)
     t.left(90)
